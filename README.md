@@ -16,6 +16,8 @@ Deschide `index.html` în browser. Funcționează și offline (fără internet s
 
 Pentru găzduire, copiază `index.html` (și opțional `icon.svg`) pe orice server web, de exemplu Nginx, Web Center pe ASUSTOR sau GitHub Pages.
 
+Aplicația este oferită „ca atare”, fără nicio garanție.
+
 ---
 
 # RAID Calculator (English)
@@ -23,5 +25,7 @@ Pentru găzduire, copiază `index.html` (și opțional `icon.svg`) pe orice serv
 A single-file, dependency-free RAID calculator for NAS units. Pick the number of bays, add drives (mixed sizes supported) and compare usable space, protection and fault tolerance across JBOD and RAID 0, 1, 5, 6, 10, 50 and 60. Romanian and English UI, light and dark mode.
 
 Open `index.html` in a browser, or serve it from any web server.
+
+The application is provided "as is", without any warranty.
 
 © 2026 ms74ro
