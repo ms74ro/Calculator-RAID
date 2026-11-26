@@ -20,6 +20,10 @@ Pentru găzduire, copiază `index.html` (și opțional `icon.svg`) pe orice serv
 
 Aplicația este oferită „ca atare”, fără nicio garanție.
 
+## Licență
+
+[MIT](LICENSE) © 2026 ms74ro ([traducerea în română](LICENTA.md), doar informativă). Poți folosi, modifica și redistribui aplicația liber, inclusiv comercial, cu condiția să păstrezi mențiunea de copyright și textul licenței.
+
 ---
 
 # RAID Calculator (English)
@@ -32,4 +36,6 @@ Or open `index.html` in a browser, or serve it from any web server.
 
 The application is provided "as is", without any warranty.
 
-© 2026 ms74ro
+## License
+
+[MIT](LICENSE) © 2026 ms74ro
